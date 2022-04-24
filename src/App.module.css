@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  text-shadow: blue 0.1em 0.1em 0.2em;
+}
+.a {
+  color: white;
+}
+
+.a:hover {
+  color: cornflowerblue;
+  opacity: 10;
+  font-size: 1.5rem;
+  font-family: fantasy;
+  animation-direction: alternate;
+}
