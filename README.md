@@ -27,6 +27,6 @@ En la terminal ejecutar el comando:
 
 ## Imagenes
 
-![home](/peliculas/image/homepel.jpeg)
-![detalle](/peliculas/image/detallpel.jpeg)
-![form](/peliculas/image/searchpel.jpeg)
+![home](/image/homepel.jpeg)
+![detalle](/image/detallpel.jpeg)
+![form](/image/searchpel.jpeg)
